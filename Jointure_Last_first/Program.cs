@@ -64,7 +64,7 @@ namespace Jointure_Last_first
             //}
 
             //Ceci est un commentaire
-            Console.writeLine("Test");
+            Console.WriteLine("Test");
         }
     }
 }
