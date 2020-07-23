@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jointure", "Jointure\Jointu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Union_Intersection", "Union_Intersection\Union_Intersection.csproj", "{063D809C-2A07-43DA-A765-8D26434D2092}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Class", "Linq_Class\Linq_Class.csproj", "{3E05DE43-9439-45AA-8996-ED6C9C974C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{0D3CFD64-019A-458A-ADA4-0D509979728D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{063D809C-2A07-43DA-A765-8D26434D2092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{063D809C-2A07-43DA-A765-8D26434D2092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{063D809C-2A07-43DA-A765-8D26434D2092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E05DE43-9439-45AA-8996-ED6C9C974C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E05DE43-9439-45AA-8996-ED6C9C974C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E05DE43-9439-45AA-8996-ED6C9C974C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E05DE43-9439-45AA-8996-ED6C9C974C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3CFD64-019A-458A-ADA4-0D509979728D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3CFD64-019A-458A-ADA4-0D509979728D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3CFD64-019A-458A-ADA4-0D509979728D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3CFD64-019A-458A-ADA4-0D509979728D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
