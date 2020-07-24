@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intro_Csharp", "Intro_Cshar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jointure", "Jointure\Jointure.csproj", "{15951C0B-3C02-4045-A3E8-994B9E936C3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Union_Intersection", "Union_Intersection\Union_Intersection.csproj", "{063D809C-2A07-43DA-A765-8D26434D2092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Union_Intersection", "Union_Intersection\Union_Intersection.csproj", "{063D809C-2A07-43DA-A765-8D26434D2092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Class", "Linq_Class\Linq_Class.csproj", "{3E05DE43-9439-45AA-8996-ED6C9C974C9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq_Class", "Linq_Class\Linq_Class.csproj", "{3E05DE43-9439-45AA-8996-ED6C9C974C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{0D3CFD64-019A-458A-ADA4-0D509979728D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{0D3CFD64-019A-458A-ADA4-0D509979728D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jointure_Last_first", "Jointure_Last_first\Jointure_Last_first.csproj", "{E783CE57-FE73-459E-9936-83EA0D3548D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jointure_Last_first", "Jointure_Last_first\Jointure_Last_first.csproj", "{E783CE57-FE73-459E-9936-83EA0D3548D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_Projet_CSharp", "Mini_Projet_CSharp\Mini_Projet_CSharp.csproj", "{BA37610E-5EE8-4248-8181-0EA29721E866}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E783CE57-FE73-459E-9936-83EA0D3548D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E783CE57-FE73-459E-9936-83EA0D3548D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E783CE57-FE73-459E-9936-83EA0D3548D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA37610E-5EE8-4248-8181-0EA29721E866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA37610E-5EE8-4248-8181-0EA29721E866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA37610E-5EE8-4248-8181-0EA29721E866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA37610E-5EE8-4248-8181-0EA29721E866}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
